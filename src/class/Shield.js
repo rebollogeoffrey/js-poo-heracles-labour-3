@@ -1,7 +1,6 @@
-class Shield {
+class Shield extends Equipment {
   constructor(name, protection, image) {
-    this.name = name;
+    super ( name, image)
     this.protection = protection;
-    this.image = image;
   }
 }

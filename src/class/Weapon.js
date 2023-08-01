@@ -1,7 +1,6 @@
-class Weapon {
+class Weapon extends Equipment {
   constructor(name, damage, image) {
-    this.name = name;
+    super ( name, image)
     this.damage = damage;
-    this.image = image;
   }
 }

@@ -1,0 +1,10 @@
+node_modules
+Mais y a pas de node node_modules
+on a fait npm init  il y en a un
+Je les viois ,pa s
+si : 320 changes pending
+et package-lock ?
+ 
+ non on le laisse car on en a besoin quand tu clone un repo pour faire ton npm i
+ daccord je le laisse mais il n'y a que nodemon dedans
+ 
